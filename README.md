@@ -1,5 +1,5 @@
 # Ex.06 Restaurant Website
-# Date: 27.05.2026
+# Date: 15.05.2026
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -189,7 +189,7 @@ index.html
     </section>
 
     <footer>
-        DEETCHANA S
+        KARTHIK KRISHNA
     </footer>
 
 </body>
@@ -364,7 +364,7 @@ menu.html
 </div>
 
 <footer>
-    DEETCHANA S
+    KARTHIK KRISHNA
 </footer>
 
 </body>
@@ -501,7 +501,7 @@ administration.html
 </div>
 
 <footer>
-    DEETCHANA S
+    KARTHIK KRISHNA
 </footer>
 
 </body>
@@ -601,7 +601,7 @@ contact.html
 </div>
 
 <footer>
-    DEETCHANA S
+    KARTHIK KRISHNA
 </footer>
 
 </body>
