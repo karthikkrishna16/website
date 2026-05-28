@@ -609,9 +609,17 @@ contact.html
 ```
 
 # OUTPUT:
+<img width="1046" height="653" alt="{01A41233-9365-4268-A3C9-FF360BC98185}" src="https://github.com/user-attachments/assets/b865ddde-98ee-4135-bfa6-1ad08f95ba42" />
 
+<img width="1047" height="655" alt="{2AB05A32-E35D-4E78-B949-81E515DBBB5F}" src="https://github.com/user-attachments/assets/aa4161b9-619b-4a91-9185-7dca17dc6f92" />
 
+<img width="1044" height="656" alt="{6FF62A96-A94A-4722-9796-01C35DA82E2F}" src="https://github.com/user-attachments/assets/10b10983-b1d1-41d3-abe4-b92393629fe0" />
 
+<img width="1046" height="653" alt="{74C0CA34-F0C1-47A3-84F0-DB78FDBCEAAC}" src="https://github.com/user-attachments/assets/d72a55d3-be85-47a9-b37a-733c51c2bf23" />
+
+<img width="1043" height="652" alt="{FA0B88D2-6230-4E18-9780-223FDD2300FF}" src="https://github.com/user-attachments/assets/8ac39392-f5fe-43f2-93a2-c243d3b27c1e" />
+
+<img width="1048" height="656" alt="{0BFB6D44-D269-4B96-A8A5-8B064643D093}" src="https://github.com/user-attachments/assets/4a311d84-85e7-461d-a5c3-fc185525a1d5" />
 
 
 # RESULT:
